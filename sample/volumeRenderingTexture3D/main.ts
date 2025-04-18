@@ -20,7 +20,7 @@ const brainImages = {
     dataPath:
       '../../assets/img/volume/t1_icbm_normal_1mm_pn0_rf0_180x216x180_bc4_4x4.bin-gz',
   },
-  'astc-12x12-unorm': {
+  'astc-12x12-unorm': { // Generated with astcenc from https://github.com/ARM-software/astc-encoder/releases
     bytesPerBlock: 16,
     blockLength: 12,
     dataPath:
